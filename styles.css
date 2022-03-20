@@ -1,0 +1,51 @@
+
+
+h1 {
+    color: #203239;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 250%;
+    text-align: justify;
+}
+
+p {
+    color: #203239;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 150%;
+    text-align: justify;
+}
+
+.P1 {
+    font-style: normal;
+    font-weight: bold;
+    font: 200%;
+}
+
+body {
+    background-color: gainsboro;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMh609d6wQ7l0wuMpLxLVchHC-1zr8yEjcA&usqp=CAU);
+    background-size: 100%;
+}
+.Top-container {
+    padding-right: 30px;
+}
+
+.Middle-container {
+   padding-right: 30px;
+}
+
+.Bottom-container {
+    padding-right: 30px;
+}
+
+.img {
+    padding-left: 10%;
+}
+
+h1 {
+    padding-left: 10%;
+}
+
+p {
+    padding-left: 10%;
+}
